@@ -1,0 +1,165 @@
+{
+	"projects" : [
+		{
+			"name" : "Portfolio Web Application v2",
+			"short_name":"Portfolio v2",
+			"frameworks" : ["Ionic","BootStrap", "Sass", "Angular.js"],
+			"sdks":null,
+			"languages":["JavaScript"],
+			"short_desc" : "Beautiful. Handmade. Searchable.",
+			"description" : "Protfolio is my app that showcase all my projects and my contact information.\n\nProjects\n\n\u2022Projects can be easily filtered out based on Frameworks, SDKs and Languages I have used.\n\n\u2022Project details are displayed in a familiar structure providing all the information required.\n\n\u2022Searchable filter buttons on details pages directly shows the project from that technology\n\nCreated in \"Iconic\" framework with \"Angular.js\" and \"Sass\". Including fully handmade UI.\n\nGive it a try you are standing right above it.",
+			"images" : ["../assets/imgs/portfoliov2_1.PNG"],
+			"icon":null,
+			"links" : {
+				"github":"http://parikhkunj.github.io/me",
+				"website":"http://parikhkunj.com",
+				"all":["http://parikhkunj.com","http://parikhkunj.github.io/me"]
+			}
+		},
+		{
+			"name" : "To-DO Kanaban",
+			"short_name" : "To-DO",
+			"frameworks" : ["BootStrap"],
+			"sdks":null,
+			"languages":["JavaScript"],
+			"short_desc" : "Bold. Organized. Swift",
+			"description" : "A well organized To-Do app with kanaban boards and priority assigner.\n\nApp features:\n\n\n\u202225% Faster task insertion, with beautiful typography and 100% pure Bootstrap designed.\n\n\u2022Boards are divided into three sections of\n\n\u25E6Ongoing.\n\n\u25E6To-Do.\n\n\u25E6Done.\n\n\u2022Priority from 1 to 10 can be assigned to the tasks.\n\n\u2022They automatically updates as the higher priority is removed.\n\n\nDon't believe me, Just click the \"Launch\" button and give it a try -or- Check the source code on github.",
+			"icon":null,
+			"images" : ["../assets/imgs/todo_1.PNG"],
+			"links" : {
+				"github":"https:/www.github.com/parikhkunj/todo",
+				"website":"https://parikhkunj.github.io/todo",
+				"all":["https:/www.github.com/parikhkunj/todo","https://parikhkunj.github.io/todo"]
+			}
+		},
+		{
+			"name" : "Resume Web Application",
+			"short_name" : "Resume",
+			"frameworks" : ["Materialdesign.io","BootStrap"],
+			"sdks":null,
+			"languages":["JavaScript"],
+			"short_desc" : "Light. Informative. Mobile-First",
+			"description" : "My Resume app is Material Designed application that presents my resume in a mobile friendly and familiar UI experience which also looks great on Desktop.\n\nContains card of all the field from resume and also links to PDF and SourceCode.\n\nDesigned using Material Design Lite by Google.",
+			"images" : ["../assets/imgs/resume_1.PNG"],
+			"icon":null,
+			"links" : {
+				"github":"https://www.github.com/parikhkunj/resume",
+				"website":"http://resume.parikhkunj.com",
+				"all":["https://www.github.com/parikhkunj/resume","http://resume.parikhkunj.com"]
+			}
+		},
+		{
+			"name" : "Daily Spends",
+			"short_name": "Daily Spends",
+			"frameworks" : null,
+			"sdks":["Android"],
+			"languages":["Java","SQL"],
+			"short_desc" : "Quick. Easy. Useful",
+			"description" : "A daily pocket accounter.\n\n\u2022This application helps us to track our daily spends.\n\n\u2022Consider it as a notebook that helps in writing our spend amount details.\n\n\u2022App contains seperate tab to diplay Income and Expenditure.\n\n\u2022It also have a fast input expenditure button that helps in inserting it quickly. ",
+			"images" : ["../assets/imgs/easywiki_1.PNG"],
+			"icon":null,
+			"links" : {
+				"github":null,
+				"website":null,
+				"all":null
+			}
+		},
+		{
+			"name" : "Retra",
+			"short_name" : "Retra",
+			"frameworks" : null,
+			"sdks":["Android","Unity Game Engine","Unity for Android"],
+			"languages":["C#"],
+			"short_desc" : "Fun. GyroMotion. Tough.",
+			"description" : "A fun game in which we control a rolling ball name Retra.\n\n\u2022This ball is controlled by the gyroscopic motion of the device.\n\n\u2022We collect the mini-ligh sources.\n\n\u2022Collection of all the light sources completes the game.\n\n\u2022Collecting light sources increaeses the speed of the Retra ball, and collecting Black light sources decreases the speed.\n\n\u2022Contains three levels.\n\n\nYou know it only when you olay it.",
+			"images" : ["../assets/imgs/easywiki_1.PNG"],
+			"icon":null,
+			"links" : {
+				"github":null,
+				"website":null,
+				"all":null
+			}
+		},
+		{
+			"name" : "Faculty Manager",
+			"short_name" : "Faculty Manager",
+			"frameworks" : null,
+			"sdks":["Android"],
+			"languages":["Java","SQL"],
+			"short_desc" : "Application to manage Faculty members",
+			"description" : "Faculty manager is an application that is focused on the faculty who manages the scheduling of other faculties in case of their absence.\n\n\u2022This app quickly finds the empty slots and suggest the best Faculty that can be assigned to that slot.\n\n\u2022It takes whole time table of instituion in CSV format.",
+			"images" : ["../assets/imgs/easywiki_1.PNG"],
+			"icon":null,
+			"links" : {
+				"github":null,
+				"website":null,
+				"all":null
+			}
+		},		
+		{
+			"name" : "Bus Tracking System",
+			"short_name" : "Bus Tracking App",
+			"frameworks" : ["Bootstrap","Google MAP API"],
+			"sdks":["Android"],
+			"languages":["Java","PHP","JavaScript","SQL"],
+			"short_desc" : "Junior Thesis in College",
+			"description" : "An Application that can be used to track live location of the Bus.\n\n\u2022We created an android application that is capable of broadcasting GPS location to servers at each interval.\n\n\u2022So Driver logs into its own account, select the BUS he/she will drive.\n\n\u2022Driver also selects the route on which bus will be driven.\n\n\u2022And on the user side they can select the bus and get the tracking information of the bus.\n\n\n\u2022Uses PHP to serve user side pages. mySQL as relational DataBase.",
+			"images" : ["../assets/imgs/easywiki_1.PNG"],
+			"icon":null,
+			"links" : {
+				"github":null,
+				"website":null,
+				"all":null
+			}
+		},
+		{
+			"name" : "Easy Wiki Chrome Extension",
+			"short_name" : "EasyWiki",
+			"frameworks" : ["JQuery.js","Chrome Extension"],
+			"sdks":null,
+			"languages":["JavaScript"],
+			"short_desc" : "Fast. Convinient. Hassle Free.",
+			"description" : "A chrome extension that is able to divide Wikipedia article into 60 words.\n\n\u2022In this project I have manipulated DOM of a wikipedia page.\n\u2022A JavaScript function read through the page and splice it in sixty words.\n\u2022This sixty words will then be displayed inside a popup on the chrome bar.\n\n\n",
+			"images" : ["../assets/imgs/easywiki_1.PNG"],
+			"icon":null,
+			"links" : {
+				"github":null,
+				"website":null,
+				"all":null
+			}
+		},
+		{
+			"name" : "Augmented Image/Scene Capturing System to Assist People (ONGOING)",
+			"short_name":"Final Year Project",
+			"frameworks" : ["TensorFlow","Docker"],
+			"sdks":["Android"],
+			"languages":["Python","Java"],
+			"short_desc" : "Final year College Project",
+			"description" : "Developing a project that can assist novice learner or a low vision person.\n\n\u2022This project describes the scene around by pointing camera to it.\n\n\u2022Then the Caption is generated by the inbuilt model.\n\n\u2022This will be displayed and dictated to the user.(Under development).",
+			"images" : ["../assets/imgs/easywiki_1.PNG"],
+			"icon":null,
+			"links" : {
+				"github":null,
+				"website":null,
+				"all":null
+			}
+		},
+		{
+			"name" : "Portfolio Web Application v1",
+			"short_name" : "Portfolio v1",
+			"frameworks" : ["touch.js","BootStrap"],
+			"sdks":null,
+			"languages":["JavaScript"],
+			"short_desc" : "Mobile-First. Crisp. Brief.",
+			"description" : "My first take on Portfolio designed\n\n Made using Bootstrap.\n\nA one page app design\n\nSimple layout to fit in most important information.\n\nSource code in the links below.\n\nFind it intresting! Give it a try by pressing \"Launch\" button.",
+			"images" : ["../assets/imgs/portfoliov1_1.PNG"],
+			"icon":null,
+			"links" : {
+				"github":"https://www.github.com/parikhkunj/portfolio",
+				"website":"http://parikhkunj.github.io/portfolio",
+				"all":["https://www.github.com/parikhkunj/portfolio","http://parikhkunj.github.io/portfolio"]
+			}
+		}
+		
+	]
+}
