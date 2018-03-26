@@ -11,9 +11,9 @@
 			"images" : ["../assets/imgs/portfoliov2_1.PNG"],
 			"icon":null,
 			"links" : {
-				"github":"http://parikhkunj.github.io/me",
+				"github":"http://github.com/parikhkunj/me",
 				"website":"http://parikhkunj.com",
-				"all":["http://parikhkunj.com","http://parikhkunj.github.io/me"]
+				"all":["https://github.com/parikhkunj/me","http://parikhkunj.com"]
 			}
 		},
 		{
